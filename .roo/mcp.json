@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "zen-mcp-sample": {
+      "name": "zen-mcp-sample",
+      "command": "/Users/yuta/.nodebrew/current/bin/zen-mcp-sample",
+      "args": [],
+      "autoStart": true,
+      "cwd": "/Users/yuta/Dev/mcp-sample"
+    }
+  }
+}

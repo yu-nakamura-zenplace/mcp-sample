@@ -1,0 +1,23 @@
+{
+  "name": "zen-mcp-sample",
+  "version": "1.0.0",
+  "description": "A simple MCP command for windsurfing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "zen-mcp-sample": "./index.js"
+  },
+  "keywords": [
+    "mcp",
+    "cli"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.8.0"
+  }
+}
